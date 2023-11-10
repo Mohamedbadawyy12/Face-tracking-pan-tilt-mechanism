@@ -9,8 +9,7 @@ This project implements real-time face tracking using OpenCV, Haar Cascade, and 
 - [Project Structure](#project-structure)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
